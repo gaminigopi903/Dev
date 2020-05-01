@@ -1,6 +1,2 @@
-Create table customer
-(
-id int,
-name varchar(100),
-gender carc
-)
+THis id prince Gopi
+King of Kailasapatnam
